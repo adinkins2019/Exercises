@@ -5,6 +5,7 @@
 // so generateRange(2, 10, 2) would return [2,4,6,8,10]
 
 // *** YOUR CODE HERE *** //
+
 /*const generateRange = (min, max, step = 1) => {
     let numArray = []
     if (!( (typeof min === "number") && (typeof max === "number" ) &&  (typeof step === "number") )){
